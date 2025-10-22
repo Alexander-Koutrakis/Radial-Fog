@@ -4,18 +4,10 @@
 
 The **Radial Fog Renderer Feature** for Unity enhances the built-in fog system by accurately calculating the real-world distance from the camera to the objects in the scene. Unlike Unity's default fog, which can cause inconsistencies by using the depth texture, this system ensures a seamless fog effect across the entire screen, regardless of object position. This results in more realistic and consistent fog rendering, improving the atmospheric quality of your game scenes.
 
-Standard Fog:
-
-![StandardFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/e4c43d5f-75b6-4492-b65f-58ddfde15b8c)
-
-Radial Fog:
-
-![RadialFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/ff378260-07a1-4a9c-a00e-05e59159f09e)
-
-Standard/Radial
-
-![StandardFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/82fc4bd6-fb6c-4e33-a88d-f827bd3bdfc6)       ![RadialFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/5173395f-4921-457a-bd85-ceb384d1fd9d)
-
+| Standard | Radial | 
+|--------------|---------|
+| ![StandardFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/e4c43d5f-75b6-4492-b65f-58ddfde15b8c) | ![RadialFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/ff378260-07a1-4a9c-a00e-05e59159f09e) |
+| ![StandardFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/82fc4bd6-fb6c-4e33-a88d-f827bd3bdfc6) | ![RadialFog](https://github.com/Alexander-Koutrakis/Radial-Fog/assets/61294700/5173395f-4921-457a-bd85-ceb384d1fd9d)
 
 
 ### How It Works
